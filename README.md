@@ -4,6 +4,9 @@
 **jaco-z98/jaco-z98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+About me:
+
+I am a student of the last semester at the Wrocław University of Technology, majoring in the engineering of mechatronic microsystems. During the course of my studies, I had the opportunity to learn several programming languages m.in: C/C++, Java, Python and the Django framework. I program and expand my knowledge in Python, because I am interested in the position of back-end developer. Programming has become my passion. I develop my knowledge in this direction thanks to independent learning and with the help of courses and books. I have the ability to think analytically and put personal development first. I am interested in taking up an internship or internship for the period of holidays.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
